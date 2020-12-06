@@ -47,5 +47,29 @@
  |  Order to cash process| our business needs to move fast. Can your order & sales teams keep up? Help them drive digital transformation with our automation solution for true end-to-end support across the whole order-to-cash process. O2C is a defining process in customer relationships & the lead-to-cash cycle, so flip the switch to turbocharged analysis across ALL activities and EVERY department. Boost customer order intake through to receipt of payment, and unleash the power of RPA / automation within the O2C & OTC loop. | https://www.signavio.com/order-to-cash-process/ |
  | Procedure to pay| The Signavio Business Transformation Suite offers an all-in-one procure to pay solution unmatched by any other company in the market. First, you define the goals you want to achieve by improving your P2P. You might want to deliver savings of time and money, streamline your procurement, build better supplier and vendor relationships, or refine some other factor affecting your procure to pay cycle. | https://www.signavio.com/radically-optimize-procure-to-pay/ |
  
-  
+ 
+ # Solutions by industry 
+ 
+ 1. Banking 
+ 
+ The banking sector is continually evolving, with new digital players revolutionizing classic banking services. These disruptive business models, along with the introduction of new regulations and IT transformations, are forcing industry insiders to shift their strategy for increased value and extended customer loyalty.
+ 
+ [learn more](https://www.signavio.com/verticals/banking/)
+ 
+ 2. Insurance 
 
+  The insurance industry stands on the precipice of profound change, with a lack of information about existing processes killing 70% of large transformation   projects, and up to 50% of RPA projects. Yet, this disruption is not just digital. With demanding customers, new competitors, and a changing set of compliance criteria, insurers are looking for the right solution to respond to these challenges. 
+
+ [learn more](https://www.signavio.com/verticals/insurance/)
+ 
+ 3. Telecommunication 
+ 
+ The telecommunications industry is defined by complexity, in service delivery, development and maintenance of infrastructure, deployment of new technology, ensuring customer satisfaction, and more. With increasing regulatory demands and a highly competitive market added into the mix, telecom companies are looking for the right solution to respond to these challenges.
+ 
+ [learn more](https://www.signavio.com/verticals/telecommunications/)
+ 
+ 4. Manufacturing 
+ 
+ Industry 4.0 is the coming of age for automation and the dawn of big data reciprocity. The next-gen strategy is blurring the gap between the physical & digital to create dynamic manufacturing enterprises that are both interconnected and capable of fact-based, objective decision-making. Now, it is time to boost this value! Harness intelligent process management, mining & RPA with a digital twin of an organization (DTO) for Industry 4.0 process efficiency.
+ 
+ [learn more](https://www.signavio.com/verticals/manufacturing/)
