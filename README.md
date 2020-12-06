@@ -73,3 +73,12 @@
  Industry 4.0 is the coming of age for automation and the dawn of big data reciprocity. The next-gen strategy is blurring the gap between the physical & digital to create dynamic manufacturing enterprises that are both interconnected and capable of fact-based, objective decision-making. Now, it is time to boost this value! Harness intelligent process management, mining & RPA with a digital twin of an organization (DTO) for Industry 4.0 process efficiency.
  
  [learn more](https://www.signavio.com/verticals/manufacturing/)
+
+
+# Resources 
+
+1. Documentation [learn more](https://documentation.signavio.com/suite/en-us/Content/home.htm?&utm_source=signavio-menu&utm_medium=referral)
+
+2. Training and consulting [learn more](https://www.signavio.com/training-consulting/)
+
+3. BPMN industry guide [learn more](https://www.signavio.com/bpmn-introductory-guide/)
